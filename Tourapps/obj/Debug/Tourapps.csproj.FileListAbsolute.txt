@@ -1,0 +1,79 @@
+c:\users\comp0710\source\repos\Tourapps\Tourapps\bin\Debug\Tourapps.exe.config
+c:\users\comp0710\source\repos\Tourapps\Tourapps\bin\Debug\Tourapps.exe
+c:\users\comp0710\source\repos\Tourapps\Tourapps\bin\Debug\Tourapps.pdb
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.csprojAssemblyReference.cache
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\AddEditPage.g.cs
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\HotelsPage.g.cs
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\MainWindow.g.cs
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\App.g.cs
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps_MarkupCompile.cache
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps_MarkupCompile.lref
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\AddEditPage.baml
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\HotelsPage.baml
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\MainWindow.baml
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.g.resources
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.Properties.Resources.resources
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.csproj.GenerateResource.cache
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.csproj.CoreCompileInputs.cache
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.exe
+c:\users\comp0710\source\repos\Tourapps\Tourapps\obj\Debug\Tourapps.pdb
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\bin\Debug\Tourapps.exe.config
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\bin\Debug\Tourapps.exe
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\bin\Debug\Tourapps.pdb
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.csprojAssemblyReference.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\AddEditPage.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\HotelsPage.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\MainWindow.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\App.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps_MarkupCompile.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps_MarkupCompile.lref
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\App.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\AddEditPage.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\HotelsPage.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\MainWindow.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.g.resources
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.Properties.Resources.resources
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.csproj.GenerateResource.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.csproj.CoreCompileInputs.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.exe
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\razgulyaev\Tourapps\obj\Debug\Tourapps.pdb
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\bin\Debug\Tourapps.exe.config
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\bin\Debug\Tourapps.exe
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\bin\Debug\Tourapps.pdb
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csprojAssemblyReference.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\AddEditPage.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\HotelsPage.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\MainWindow.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\App.g.cs
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps_MarkupCompile.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps_MarkupCompile.lref
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\App.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\AddEditPage.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\HotelsPage.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\MainWindow.baml
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.g.resources
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.Properties.Resources.resources
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csproj.GenerateResource.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csproj.CoreCompileInputs.cache
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.exe
+D:\Контрольные работы\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.pdb
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\bin\Debug\Tourapps.exe.config
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\bin\Debug\Tourapps.exe
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\bin\Debug\Tourapps.pdb
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csprojAssemblyReference.cache
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\AddEditPage.g.cs
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\HotelsPage.g.cs
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\MainWindow.g.cs
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\App.g.cs
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps_MarkupCompile.cache
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps_MarkupCompile.lref
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\App.baml
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\AddEditPage.baml
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\HotelsPage.baml
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\MainWindow.baml
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.g.resources
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.Properties.Resources.resources
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csproj.GenerateResource.cache
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csproj.CoreCompileInputs.cache
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.exe
+\\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.pdb
