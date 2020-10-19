@@ -77,3 +77,11 @@ D:\Контрольные работы\4-2ис\Учебная практика\0
 \\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.csproj.CoreCompileInputs.cache
 \\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.exe
 \\kab7-teacher\Контрольные работы2\4-2ис\Учебная практика\04_WSR каркас приложения\Voroncov\Tourapps\obj\Debug\Tourapps.pdb
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\Tourapps.csprojAssemblyReference.cache
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\AddEditPage.g.cs
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\MainWindow.g.cs
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\App.g.cs
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\Tourapps_MarkupCompile.cache
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\Tourapps_MarkupCompile.lref
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\Tourapps.exe
+G:\ЗАГРУЗКИ\pofig\Tourapps\obj\Debug\Tourapps.pdb

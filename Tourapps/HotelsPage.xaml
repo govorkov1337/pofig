@@ -9,7 +9,16 @@
       Title="HotelsPage">
 
     <Grid>
-        <Button Content="Go"  Click="Button_Click"></Button>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="377"/>
+            <RowDefinition Height="73"/>
+        </Grid.RowDefinitions>
+        <DataGrid x:Name="DGridHotels">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название Отеля" Binding="{Binding Name}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Количество звёзд" Binding="{Binding CountOfStars}" Width="150"></DataGridTextColumn>
+                <DataGridTextColumn Header="Страна" Binding="{Binding Country.Name}" Width="250"></DataGridTextColumn>
+    
+            </DataGrid.Columns>
     </Grid>
 </Page>
